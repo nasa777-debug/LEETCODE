@@ -16,6 +16,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [2119-a-number-after-a-double-reversal](https://github.com/nasa777-debug/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
 | ------- |
