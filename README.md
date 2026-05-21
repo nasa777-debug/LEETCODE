@@ -23,6 +23,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/nasa777-debug/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2235-add-two-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
