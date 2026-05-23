@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
