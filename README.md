@@ -25,6 +25,7 @@
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/nasa777-debug/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2235-add-two-integers) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
