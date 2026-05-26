@@ -30,6 +30,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/nasa777-debug/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
 | [3516-find-closest-person](https://github.com/nasa777-debug/LEETCODE/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
