@@ -34,6 +34,7 @@
 | [2235-add-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/nasa777-debug/LEETCODE/tree/master/3516-find-closest-person) |
