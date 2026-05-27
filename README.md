@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
+| [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/nasa777-debug/LEETCODE/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
