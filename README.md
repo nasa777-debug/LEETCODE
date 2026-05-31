@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
