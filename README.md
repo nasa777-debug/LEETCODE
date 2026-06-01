@@ -34,6 +34,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/nasa777-debug/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/nasa777-debug/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
