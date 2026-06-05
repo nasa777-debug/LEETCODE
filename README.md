@@ -32,6 +32,7 @@
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
@@ -61,6 +62,7 @@
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
