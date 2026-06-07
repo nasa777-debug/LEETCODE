@@ -49,6 +49,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
@@ -82,6 +83,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Number Theory
@@ -109,6 +111,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 ## Counting Sort
 |  |
 | ------- |
