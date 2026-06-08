@@ -21,6 +21,7 @@
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -83,6 +84,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
@@ -149,5 +151,6 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nasa777-debug/LEETCODE/tree/master/0027-remove-element) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/nasa777-debug/LEETCODE/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
