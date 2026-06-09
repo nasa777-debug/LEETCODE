@@ -31,6 +31,7 @@
 | [0007-reverse-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/nasa777-debug/LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nasa777-debug/LEETCODE/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
