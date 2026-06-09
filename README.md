@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
