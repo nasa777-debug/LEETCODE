@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/nasa777-debug/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -18,6 +19,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -31,6 +33,7 @@
 | [0007-reverse-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/nasa777-debug/LEETCODE/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
