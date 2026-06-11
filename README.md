@@ -13,6 +13,7 @@
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/nasa777-debug/LEETCODE/tree/master/3794-reverse-string-prefix) |
