@@ -28,6 +28,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
