@@ -8,6 +8,7 @@
 | [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/nasa777-debug/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nasa777-debug/LEETCODE/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
