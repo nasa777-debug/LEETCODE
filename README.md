@@ -14,6 +14,7 @@
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -86,6 +87,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -138,6 +141,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 ## Sorting
@@ -152,6 +156,7 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
