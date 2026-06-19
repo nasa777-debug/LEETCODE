@@ -102,6 +102,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -135,6 +136,7 @@
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## String Matching
 |  |
