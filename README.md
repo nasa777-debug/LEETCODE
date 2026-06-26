@@ -64,6 +64,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [1492-the-kth-factor-of-n](https://github.com/nasa777-debug/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -149,6 +150,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/nasa777-debug/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
