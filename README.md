@@ -90,6 +90,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
+| [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 ## Number Theory
 |  |
 | ------- |
