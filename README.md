@@ -145,6 +145,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nasa777-debug/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
