@@ -26,6 +26,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/3280-convert-date-to-binary) |
@@ -143,6 +144,7 @@
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
