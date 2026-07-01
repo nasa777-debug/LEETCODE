@@ -134,6 +134,7 @@
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nasa777-debug/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -186,6 +187,7 @@
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -209,6 +211,7 @@
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
