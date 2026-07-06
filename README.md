@@ -12,6 +12,7 @@
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/nasa777-debug/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
