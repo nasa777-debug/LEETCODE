@@ -54,6 +54,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
