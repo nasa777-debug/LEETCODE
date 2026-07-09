@@ -180,6 +180,7 @@
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String Matching
 |  |
 | ------- |
@@ -318,4 +320,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
