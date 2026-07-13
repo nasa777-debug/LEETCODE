@@ -66,6 +66,7 @@
 | [0066-plus-one](https://github.com/nasa777-debug/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/nasa777-debug/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -113,6 +114,7 @@
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/nasa777-debug/LEETCODE/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0338-counting-bits) |
@@ -259,6 +261,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nasa777-debug/LEETCODE/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/nasa777-debug/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
