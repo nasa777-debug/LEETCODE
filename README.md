@@ -136,6 +136,7 @@
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
