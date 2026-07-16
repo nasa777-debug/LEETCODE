@@ -12,6 +12,7 @@
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/nasa777-debug/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nasa777-debug/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -71,6 +73,7 @@
 | [0326-power-of-three](https://github.com/nasa777-debug/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nasa777-debug/LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
