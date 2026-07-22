@@ -58,6 +58,7 @@
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
+| [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -202,6 +203,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/nasa777-debug/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
@@ -249,6 +251,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +271,7 @@
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 ## Counting Sort
 |  |
 | ------- |
