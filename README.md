@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/nasa777-debug/LEETCODE/tree/master/0520-detect-capital) |
@@ -76,6 +77,7 @@
 | [0326-power-of-three](https://github.com/nasa777-debug/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nasa777-debug/LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
@@ -132,6 +134,7 @@
 | [0342-power-of-four](https://github.com/nasa777-debug/LEETCODE/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
