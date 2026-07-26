@@ -169,6 +169,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nasa777-debug/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nasa777-debug/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
