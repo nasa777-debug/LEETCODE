@@ -158,6 +158,7 @@
 | [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
@@ -341,6 +342,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
