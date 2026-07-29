@@ -163,6 +163,7 @@
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
+| [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
@@ -276,6 +277,7 @@
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
+| [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -346,6 +348,7 @@
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
