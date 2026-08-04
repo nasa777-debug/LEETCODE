@@ -123,6 +123,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
+| [4286-valid-digit-number](https://github.com/nasa777-debug/LEETCODE/tree/master/4286-valid-digit-number) |
 ## Bit Manipulation
 |  |
 | ------- |
