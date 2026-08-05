@@ -4,7 +4,4 @@ class Solution:
         for i in s.lower():
             if i.isalpha() or i.isdigit():
                 s1+=i
-        if s1==s1[::-1]:
-            return True
-        else:
-            return False
+        return s1==s1[::-1]
