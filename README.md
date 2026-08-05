@@ -124,6 +124,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [4286-valid-digit-number](https://github.com/nasa777-debug/LEETCODE/tree/master/4286-valid-digit-number) |
+| [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
