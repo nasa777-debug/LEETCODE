@@ -19,6 +19,7 @@
 | [0520-detect-capital](https://github.com/nasa777-debug/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
@@ -379,6 +380,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
 ## Merge Sort
 |  |
 | ------- |
