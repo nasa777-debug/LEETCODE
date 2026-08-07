@@ -21,6 +21,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
@@ -168,6 +169,7 @@
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
@@ -262,6 +264,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
