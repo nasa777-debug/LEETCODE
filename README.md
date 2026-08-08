@@ -111,6 +111,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
@@ -274,6 +275,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
