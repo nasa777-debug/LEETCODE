@@ -25,6 +25,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nasa777-debug/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -372,6 +373,7 @@
 | [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -393,6 +395,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Merge Sort
 |  |
 | ------- |
