@@ -335,6 +335,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/nasa777-debug/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nasa777-debug/LEETCODE/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/nasa777-debug/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nasa777-debug/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -367,6 +368,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -383,6 +385,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
@@ -430,6 +433,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Pigeonhole Principle
 |  |
