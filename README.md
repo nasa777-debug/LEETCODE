@@ -55,6 +55,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
@@ -80,6 +81,7 @@
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nasa777-debug/LEETCODE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nasa777-debug/LEETCODE/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nasa777-debug/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nasa777-debug/LEETCODE/tree/master/0342-power-of-four) |
@@ -242,6 +244,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/nasa777-debug/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
