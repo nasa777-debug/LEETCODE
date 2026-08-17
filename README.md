@@ -65,6 +65,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
@@ -227,6 +228,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/nasa777-debug/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/nasa777-debug/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
@@ -319,6 +321,7 @@
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
+| [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -366,6 +369,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
