@@ -193,6 +193,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1168-duplicate-zeros](https://github.com/nasa777-debug/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
