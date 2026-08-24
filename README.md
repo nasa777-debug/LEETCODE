@@ -24,6 +24,7 @@
 | [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/nasa777-debug/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/nasa777-debug/LEETCODE/tree/master/1360-number-of-days-between-two-dates) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -185,6 +186,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nasa777-debug/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
+| [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
@@ -292,6 +294,7 @@
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
