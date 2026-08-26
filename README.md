@@ -183,6 +183,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nasa777-debug/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
@@ -293,6 +294,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -430,6 +432,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Matrix
 |  |
@@ -499,4 +502,8 @@
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
