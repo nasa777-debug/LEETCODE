@@ -252,6 +252,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/nasa777-debug/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nasa777-debug/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -317,6 +318,7 @@
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
