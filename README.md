@@ -45,6 +45,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3110-score-of-a-string) |
