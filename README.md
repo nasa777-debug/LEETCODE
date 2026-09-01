@@ -140,6 +140,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
@@ -261,6 +262,7 @@
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/nasa777-debug/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
@@ -478,6 +480,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/nasa777-debug/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Graph Theory
 |  |
 | ------- |
