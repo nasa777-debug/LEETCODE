@@ -127,6 +127,7 @@
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2998-count-symmetric-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2998-count-symmetric-integers) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3099-harshad-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -420,6 +421,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
