@@ -145,6 +145,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4286-valid-digit-number](https://github.com/nasa777-debug/LEETCODE/tree/master/4286-valid-digit-number) |
@@ -268,6 +269,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
