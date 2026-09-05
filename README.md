@@ -205,6 +205,7 @@
 | [1168-duplicate-zeros](https://github.com/nasa777-debug/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -315,6 +316,7 @@
 | [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
+| [1256-rank-transform-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -348,6 +350,7 @@
 | [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
