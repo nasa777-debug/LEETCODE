@@ -248,6 +248,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2836-neither-minimum-nor-maximum](https://github.com/nasa777-debug/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -361,6 +362,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2836-neither-minimum-nor-maximum](https://github.com/nasa777-debug/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
