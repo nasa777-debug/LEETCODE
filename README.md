@@ -275,6 +275,7 @@
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
 ## Sorting
 |  |
@@ -370,6 +372,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -530,6 +533,7 @@
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
