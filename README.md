@@ -236,6 +236,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nasa777-debug/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nasa777-debug/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -298,6 +299,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -361,6 +363,7 @@
 | [1970-sorting-the-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/nasa777-debug/LEETCODE/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
