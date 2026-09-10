@@ -214,6 +214,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nasa777-debug/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/1512-number-of-good-pairs) |
@@ -300,6 +301,7 @@
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -325,6 +327,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -360,6 +363,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nasa777-debug/LEETCODE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1970-sorting-the-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1970-sorting-the-sentence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -453,6 +457,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/nasa777-debug/LEETCODE/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
