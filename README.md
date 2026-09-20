@@ -47,6 +47,7 @@
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
@@ -71,6 +72,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -257,6 +259,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2836-neither-minimum-nor-maximum](https://github.com/nasa777-debug/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -343,6 +346,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/3146-permutation-difference-between-two-strings) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
