@@ -289,6 +289,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4295-count-indices-with-opposite-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/4295-count-indices-with-opposite-parity) |
 ## Number Theory
 |  |
 | ------- |
