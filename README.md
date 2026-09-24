@@ -128,6 +128,7 @@
 | [2544-alternating-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
+| [2748-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2998-count-symmetric-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2998-count-symmetric-integers) |
