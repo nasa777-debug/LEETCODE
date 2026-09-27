@@ -174,6 +174,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
@@ -264,6 +265,7 @@
 | [2942-find-words-containing-character](https://github.com/nasa777-debug/LEETCODE/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/nasa777-debug/LEETCODE/tree/master/3024-type-of-triangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
