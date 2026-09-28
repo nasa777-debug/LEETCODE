@@ -65,6 +65,7 @@
 | [0258-add-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nasa777-debug/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -171,6 +172,7 @@
 | [0371-sum-of-two-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -202,6 +204,7 @@
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nasa777-debug/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
+| [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
 | [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
 | [0932-monotonic-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0932-monotonic-array) |
@@ -470,6 +473,7 @@
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
@@ -494,6 +498,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
