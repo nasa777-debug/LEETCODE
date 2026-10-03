@@ -274,6 +274,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nasa777-debug/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
@@ -538,6 +539,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/nasa777-debug/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Graph Theory
 |  |
