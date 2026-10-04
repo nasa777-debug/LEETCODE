@@ -156,6 +156,7 @@
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4248-count-commas-in-range-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/4248-count-commas-in-range-ii) |
 | [4286-valid-digit-number](https://github.com/nasa777-debug/LEETCODE/tree/master/4286-valid-digit-number) |
 | [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
@@ -300,6 +301,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4295-count-indices-with-opposite-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/4295-count-indices-with-opposite-parity) |
 ## Number Theory
 |  |
