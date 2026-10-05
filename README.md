@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
@@ -340,6 +341,7 @@
 | [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
