@@ -11,6 +11,7 @@
 | [0058-length-of-last-word](https://github.com/nasa777-debug/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/nasa777-debug/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
@@ -338,6 +339,7 @@
 | [0001-two-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/nasa777-debug/LEETCODE/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
