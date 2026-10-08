@@ -34,6 +34,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nasa777-debug/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1768-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1894-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1894-merge-strings-alternately) |
@@ -497,6 +498,7 @@
 | [1168-duplicate-zeros](https://github.com/nasa777-debug/LEETCODE/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1768-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1894-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2108-find-first-palindromic-string-in-the-array) |
