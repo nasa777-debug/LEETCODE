@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/nasa777-debug/LEETCODE/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/nasa777-debug/LEETCODE/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0191-number-of-1-bits) |
@@ -195,6 +196,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nasa777-debug/LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nasa777-debug/LEETCODE/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nasa777-debug/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0137-single-number-ii) |
@@ -610,4 +612,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nasa777-debug/LEETCODE/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nasa777-debug/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
