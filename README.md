@@ -271,6 +271,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/nasa777-debug/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/nasa777-debug/LEETCODE/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -481,6 +482,7 @@
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nasa777-debug/LEETCODE/tree/master/2442-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
