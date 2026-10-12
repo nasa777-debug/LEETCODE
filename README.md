@@ -208,6 +208,7 @@
 | [0260-single-number-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
@@ -333,6 +334,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -350,6 +352,7 @@
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -393,6 +396,7 @@
 | [0217-contains-duplicate](https://github.com/nasa777-debug/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nasa777-debug/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nasa777-debug/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -496,6 +500,7 @@
 | [0234-palindrome-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
