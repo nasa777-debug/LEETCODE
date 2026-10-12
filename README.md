@@ -198,6 +198,7 @@
 | [0066-plus-one](https://github.com/nasa777-debug/LEETCODE/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nasa777-debug/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nasa777-debug/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -448,6 +449,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nasa777-debug/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Recursion
