@@ -155,6 +155,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3765-complete-prime-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
@@ -325,6 +326,7 @@
 | [2413-smallest-even-multiple](https://github.com/nasa777-debug/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3765-complete-prime-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
@@ -492,6 +494,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2998-count-symmetric-integers](https://github.com/nasa777-debug/LEETCODE/tree/master/2998-count-symmetric-integers) |
+| [3765-complete-prime-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3765-complete-prime-number) |
 ## Two Pointers
 |  |
 | ------- |
