@@ -39,6 +39,7 @@
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nasa777-debug/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/nasa777-debug/LEETCODE/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1970-sorting-the-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1970-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/nasa777-debug/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -380,6 +381,7 @@
 | [1512-number-of-good-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nasa777-debug/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/nasa777-debug/LEETCODE/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
