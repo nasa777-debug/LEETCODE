@@ -311,6 +311,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/nasa777-debug/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3731-find-missing-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -398,6 +399,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/nasa777-debug/LEETCODE/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
@@ -440,6 +442,7 @@
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
