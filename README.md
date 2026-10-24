@@ -163,6 +163,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [3945-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/3945-digit-frequency-score) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4248-count-commas-in-range-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/4248-count-commas-in-range-ii) |
@@ -401,6 +402,7 @@
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/nasa777-debug/LEETCODE/tree/master/3842-toggle-light-bulbs) |
+| [3945-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/3945-digit-frequency-score) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4321-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/4321-digit-frequency-score) |
 ## Sorting
