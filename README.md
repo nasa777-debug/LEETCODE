@@ -24,6 +24,7 @@
 | [0520-detect-capital](https://github.com/nasa777-debug/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0812-rotate-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -222,6 +223,7 @@
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nasa777-debug/LEETCODE/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0804-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
@@ -372,6 +374,7 @@
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0804-unique-morse-code-words) |
 | [0822-unique-morse-code-words](https://github.com/nasa777-debug/LEETCODE/tree/master/0822-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0926-find-and-replace-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0926-find-and-replace-pattern) |
