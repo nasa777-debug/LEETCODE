@@ -192,6 +192,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
@@ -306,6 +307,7 @@
 | [3285-find-indices-of-stable-mountains](https://github.com/nasa777-debug/LEETCODE/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/nasa777-debug/LEETCODE/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3467-transform-array-by-parity](https://github.com/nasa777-debug/LEETCODE/tree/master/3467-transform-array-by-parity) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
