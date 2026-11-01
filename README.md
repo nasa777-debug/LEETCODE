@@ -51,6 +51,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/nasa777-debug/LEETCODE/tree/master/2129-capitalize-the-title) |
 | [2278-percentage-of-letter-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/2278-percentage-of-letter-in-string) |
+| [2325-decode-the-message](https://github.com/nasa777-debug/LEETCODE/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/nasa777-debug/LEETCODE/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -399,6 +400,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/nasa777-debug/LEETCODE/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/nasa777-debug/LEETCODE/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2325-decode-the-message](https://github.com/nasa777-debug/LEETCODE/tree/master/2325-decode-the-message) |
 | [2404-most-frequent-even-element](https://github.com/nasa777-debug/LEETCODE/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/nasa777-debug/LEETCODE/tree/master/2418-sort-the-people) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nasa777-debug/LEETCODE/tree/master/2442-number-of-arithmetic-triplets) |
