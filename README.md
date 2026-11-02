@@ -41,6 +41,7 @@
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nasa777-debug/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1894-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/nasa777-debug/LEETCODE/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1970-sorting-the-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1970-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/nasa777-debug/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
@@ -129,6 +130,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1903-largest-odd-number-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -637,6 +639,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
