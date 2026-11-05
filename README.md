@@ -253,6 +253,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nasa777-debug/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -367,6 +368,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/nasa777-debug/LEETCODE/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nasa777-debug/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -447,6 +449,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nasa777-debug/LEETCODE/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -555,6 +558,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/nasa777-debug/LEETCODE/tree/master/1168-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nasa777-debug/LEETCODE/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1768-merge-strings-alternately) |
