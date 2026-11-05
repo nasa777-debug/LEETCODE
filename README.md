@@ -37,6 +37,7 @@
 | [1678-goal-parser-interpretation](https://github.com/nasa777-debug/LEETCODE/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/nasa777-debug/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/nasa777-debug/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nasa777-debug/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -266,6 +267,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/nasa777-debug/LEETCODE/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/nasa777-debug/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1773-count-items-matching-a-rule](https://github.com/nasa777-debug/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
