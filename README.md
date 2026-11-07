@@ -72,6 +72,7 @@
 | [3794-reverse-string-prefix](https://github.com/nasa777-debug/LEETCODE/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/nasa777-debug/LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/nasa777-debug/LEETCODE/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/nasa777-debug/LEETCODE/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
