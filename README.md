@@ -340,6 +340,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/nasa777-debug/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/nasa777-debug/LEETCODE/tree/master/3925-concatenate-array-with-reverse) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -622,6 +623,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/nasa777-debug/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Graph Theory
 |  |
 | ------- |
