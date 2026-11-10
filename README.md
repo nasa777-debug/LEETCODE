@@ -175,6 +175,7 @@
 | [3765-complete-prime-number](https://github.com/nasa777-debug/LEETCODE/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nasa777-debug/LEETCODE/tree/master/3783-mirror-distance-of-an-integer) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3870-count-commas-in-range](https://github.com/nasa777-debug/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/nasa777-debug/LEETCODE/tree/master/3895-count-digit-appearances) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/nasa777-debug/LEETCODE/tree/master/3945-digit-frequency-score) |
