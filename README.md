@@ -91,6 +91,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nasa777-debug/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2739-total-distance-traveled](https://github.com/nasa777-debug/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/nasa777-debug/LEETCODE/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -153,6 +154,7 @@
 | [2544-alternating-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/nasa777-debug/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [2748-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2748-calculate-delayed-arrival-time) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
