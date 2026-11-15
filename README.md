@@ -172,6 +172,7 @@
 | [3515-find-if-digit-game-can-be-won](https://github.com/nasa777-debug/LEETCODE/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-find-closest-person](https://github.com/nasa777-debug/LEETCODE/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/nasa777-debug/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nasa777-debug/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nasa777-debug/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -334,6 +335,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nasa777-debug/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/nasa777-debug/LEETCODE/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nasa777-debug/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/nasa777-debug/LEETCODE/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/nasa777-debug/LEETCODE/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/3701-compute-alternating-sum) |
