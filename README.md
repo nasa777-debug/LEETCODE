@@ -153,6 +153,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/nasa777-debug/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [2748-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2748-calculate-delayed-arrival-time) |
