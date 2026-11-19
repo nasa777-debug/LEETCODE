@@ -157,6 +157,7 @@
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/nasa777-debug/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [2748-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2748-calculate-delayed-arrival-time) |
+| [2769-find-the-maximum-achievable-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/nasa777-debug/LEETCODE/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/nasa777-debug/LEETCODE/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
