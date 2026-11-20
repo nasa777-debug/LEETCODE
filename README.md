@@ -152,6 +152,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2544-alternating-digit-sum) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/nasa777-debug/LEETCODE/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/nasa777-debug/LEETCODE/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/nasa777-debug/LEETCODE/tree/master/2652-sum-multiples) |
@@ -677,6 +678,7 @@
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nasa777-debug/LEETCODE/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/nasa777-debug/LEETCODE/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/nasa777-debug/LEETCODE/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Monotonic Stack
