@@ -138,6 +138,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/nasa777-debug/LEETCODE/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/nasa777-debug/LEETCODE/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/nasa777-debug/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -214,6 +215,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nasa777-debug/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/nasa777-debug/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -285,6 +287,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/nasa777-debug/LEETCODE/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/nasa777-debug/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/nasa777-debug/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nasa777-debug/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -556,6 +559,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/nasa777-debug/LEETCODE/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/nasa777-debug/LEETCODE/tree/master/2427-number-of-common-factors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/nasa777-debug/LEETCODE/tree/master/2442-number-of-arithmetic-triplets) |
@@ -706,6 +710,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nasa777-debug/LEETCODE/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Quicksort
 |  |
 | ------- |
@@ -714,4 +719,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nasa777-debug/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
