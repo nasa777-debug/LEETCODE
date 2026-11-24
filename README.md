@@ -17,6 +17,7 @@
 | [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
@@ -411,6 +412,7 @@
 | [0290-word-pattern](https://github.com/nasa777-debug/LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/nasa777-debug/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/nasa777-debug/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -506,6 +508,7 @@
 | [0169-majority-element](https://github.com/nasa777-debug/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nasa777-debug/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/nasa777-debug/LEETCODE/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0912-sort-an-array](https://github.com/nasa777-debug/LEETCODE/tree/master/0912-sort-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nasa777-debug/LEETCODE/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -729,4 +732,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nasa777-debug/LEETCODE/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
