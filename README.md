@@ -20,6 +20,7 @@
 | [0383-ransom-note](https://github.com/nasa777-debug/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/nasa777-debug/LEETCODE/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/nasa777-debug/LEETCODE/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nasa777-debug/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nasa777-debug/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nasa777-debug/LEETCODE/tree/master/0415-add-strings) |
@@ -533,6 +534,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nasa777-debug/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nasa777-debug/LEETCODE/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/nasa777-debug/LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/nasa777-debug/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -591,6 +593,7 @@
 | [0283-move-zeroes](https://github.com/nasa777-debug/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nasa777-debug/LEETCODE/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nasa777-debug/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/nasa777-debug/LEETCODE/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nasa777-debug/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/nasa777-debug/LEETCODE/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/nasa777-debug/LEETCODE/tree/master/0908-middle-of-the-linked-list) |
